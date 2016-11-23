@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F4D8098C1DE587DF00BAEB1D /* PodTest.h in Headers */ = {isa = PBXBuildFile; fileRef = F4D8098A1DE587DF00BAEB1D /* PodTest.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F4D809981DE58AAA00BAEB1D /* Person.h in Headers */ = {isa = PBXBuildFile; fileRef = F4D809961DE58AAA00BAEB1D /* Person.h */; };
+		F4D809981DE58AAA00BAEB1D /* Person.h in Headers */ = {isa = PBXBuildFile; fileRef = F4D809961DE58AAA00BAEB1D /* Person.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F4D809991DE58AAA00BAEB1D /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = F4D809971DE58AAA00BAEB1D /* Person.m */; };
 /* End PBXBuildFile section */
 
